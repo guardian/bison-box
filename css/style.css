@@ -1,0 +1,73 @@
+*{
+  box-sizing:border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  font-family: "EgyptianText", serif;
+  color: #333;
+}
+
+h1 {
+  font-family: "EgyptianHeadline", serif;
+  margin-top: 5px;
+  font-size:18px;
+  font-weight:bold;
+  color:#951C55;
+}
+
+p {
+  font-size: 14px;
+  line-height: 22px;
+  font-family: "EgyptianText";
+  font-weight: normal;
+  margin:0 0 1em;
+}
+img {
+  display: inline;
+  margin: 0 0 5px 0;
+  max-width:100%;
+}
+.wrapper {
+  width: 100%;
+  border-top:2px solid #F16880;
+  padding:0 10px 1px;
+  background: #F6F6F6;
+}
+.clearfix:after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+.boxout-readmore {
+  position: relative;
+  width: 100%;
+  border-top:1px dotted #BDBDBD;
+  padding-top:5px;
+  cursor:pointer;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+.boxout-readmore:hover{
+  opacity:0.8;
+}
+.boxout-readmore p {
+  display:inline;
+  vertical-align: middle;
+  font-family:EgyptianHeadline;
+  font-weight:bold;
+  color:#951C55;
+}
+
+.boxout-readmore img{
+  margin:0;
+  display:inline;
+  vertical-align: middle;
+  margin-right:5px;
+}
+.invisible {
+  display: none;
+}
+

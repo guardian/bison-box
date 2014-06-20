@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="34px" viewBox="-1 -1 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title></title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <circle id="path-1" cx="17" cy="17" r="17"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="arrowDown.svg" sketch:type="MSLayerGroup">
+            <path d="M24.6623636,12.5227273 L16.9567273,18.9703636 L9.25147727,12.5227273 L8.5,13.2738182 L15.4545455,20.2275909 L15.4541591,20.2275909 L16.56225,21.3356818 L17.3515909,21.3356818 L25.4134545,13.2738182 L24.6623636,12.5227273" id="Fill-296" fill="#951C55" sketch:type="MSShapeGroup"></path>
+            <g id="Oval-2">
+                <use stroke="none" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use stroke="none" xlink:href="#path-1"></use>
+                <use stroke="#951C55" stroke-width="1" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
