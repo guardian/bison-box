@@ -17,6 +17,19 @@ h1 {
   color:#951C55;
 }
 
+h2,h3,h4,h5{
+	font-family:"EgyptianHeadline", serif;
+	font-size:1em;
+  	margin-bottom:0.2em;
+}
+a{
+	color:#005689;
+	text-decoration: none;
+	border-bottom:1px solid #dcdcdc;
+}
+a:hover{
+	border-bottom:1px solid #005689;
+}
 p {
   font-size: 14px;
   line-height: 22px;
