@@ -1,0 +1,64 @@
+// Main site CSS
+body{
+	margin:0;
+}
+.guInteractive {
+    padding:0;
+    margin:0;
+    h1,h2{
+    	font-family:'Guardian Egyptian Web', Georgia;
+    }
+}
+
+.interactive{
+	margin:0;
+}
+
+.fact-box{
+	max-width:620px;
+	background:#eee;
+	-webkit-font-smoothing:antialiased;
+}
+
+.titleContainer{
+	padding:6px 6px 24px 6px;
+	border-top:1px solid #005689;
+	h1{
+		font-size:22px;
+		font-weight:normal;
+		margin:0;
+		line-height: 1.125em;
+	}
+}
+
+.copyContainer{
+	background:#F6F6F6;
+	padding:12px 6px;
+	p{
+		color:#333;
+		font-size:14px;
+		&:first-child{
+			margin-top:0;
+		}
+	}
+	img{
+		max-width:100%;
+		&.align-left{
+			float:left;
+			padding:10px 10px 10px 0;
+		}
+		&.align-right{
+			float:right;
+			padding:10px 0 10px 10px;
+		}
+	}
+}
+
+.fact-box.fact-feature{
+	.titleContainer{
+		border-top:1px solid #951c55;
+		h1{
+			color:#951C55;
+		}
+	}
+}
